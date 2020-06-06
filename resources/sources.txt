@@ -1,0 +1,63 @@
+COSCO
+http://elines.coscoshipping.com/ebusiness/servers/2002
+Выбрать контейнер
+
+------------------------------------------------------------
+
+CMA CGM
+https://www.cma-cgm.com/
+Вкладка Track my shipment
+
+------------------------------------------------------------
+
+MAERSK
+https://www.maersk.com/?gclid=Cj0KCQjwho7rBRDxARIsAJ5nhFpmovK-W
+6XafpuWNXjj4WFUUY9KnVD_HGSW8KzhfzmhGxYhWnCyOBUaAvQkEAL
+w_wcB&gclsrc=aw.ds
+Вкладка Track
+
+------------------------------------------------------------
+
+MSC
+https://www.msc.com/track-a-shipment?link=68987f15-a8b0-44d2-99c8-d62
+bdf59c921
+
+------------------------------------------------------------
+
+EVERGREEN
+https://www.evergreen-marine.com/
+Справа выбрать Container No. Капчу выводить юзеру для
+самостоятельного ввода
+
+------------------------------------------------------------
+
+YANG MING
+https://www.yangming.com/e-service/track_trace/track_trace_cargo_tracking
+.aspx
+
+------------------------------------------------------------
+
+ZIM
+https://www.zim.com/tools/track-a-shipment
+
+------------------------------------------------------------
+
+APL
+https://www.apl.com/ebusiness/tracking
+
+------------------------------------------------------------
+
+K-LINE
+http://www.shippingline.org/freight/K_LINE/tracking/
+
+------------------------------------------------------------
+
+OOCL
+https://www.oocl.com/eng/ourservices/eservices/cargotracking/Pages/cargotracking.aspx
+
+------------------------------------------------------------
+
+NYK
+https://ecomm.one-line.com/ecom/CUP_HOM_3301.do?sessLocale=en
+
+------------------------------------------------------------
