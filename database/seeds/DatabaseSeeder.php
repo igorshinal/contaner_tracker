@@ -11,7 +11,11 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+<<<<<<< HEAD
         $this->call(CompanySeeder::class);
         $this->call(CompanyPrefixSeeder::class);
+=======
+        // $this->call(UserSeeder::class);
+>>>>>>> initial
     }
 }

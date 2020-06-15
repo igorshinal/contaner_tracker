@@ -13,7 +13,11 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
+<<<<<<< HEAD
         Commands\UpdateTelegramWebhook::class,
+=======
+        //
+>>>>>>> initial
     ];
 
     /**

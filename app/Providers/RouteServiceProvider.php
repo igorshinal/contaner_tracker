@@ -46,7 +46,11 @@ class RouteServiceProvider extends ServiceProvider
 
         $this->mapWebRoutes();
 
+<<<<<<< HEAD
         $this->mapWebhookRoutes();
+=======
+        //
+>>>>>>> initial
     }
 
     /**
@@ -77,6 +81,7 @@ class RouteServiceProvider extends ServiceProvider
             ->namespace($this->namespace)
             ->group(base_path('routes/api.php'));
     }
+<<<<<<< HEAD
 
     protected function mapWebhookRoutes()
     {
@@ -88,4 +93,6 @@ class RouteServiceProvider extends ServiceProvider
             require base_path('routes/webhooks.php');
         });
     }
+=======
+>>>>>>> initial
 }
