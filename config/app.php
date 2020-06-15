@@ -165,8 +165,11 @@ return [
         /*
          * Package Service Providers...
          */
+<<<<<<< HEAD
         Telegram\Bot\Laravel\TelegramServiceProvider::class,
 
+=======
+>>>>>>> initial
 
         /*
          * Application Service Providers...
@@ -228,7 +231,10 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+<<<<<<< HEAD
         'Telegram' => Telegram\Bot\Laravel\Facades\Telegram::class,
+=======
+>>>>>>> initial
 
     ],
 
